@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\htyra\\source\\repos\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|solutionrelative:RPG\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|solutionrelative:RPG\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|solutionrelative:RPG\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Priest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|solutionrelative:RPG\\Priest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|solutionrelative:RPG\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C09D23E-2D28-4EEB-BCEB-12BAC24CF6B8}|RPG\\RPG.vcxproj|solutionrelative:RPG\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Player.h",
+              "RelativeDocumentMoniker": "RPG\\Player.h",
+              "ToolTip": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Player.h",
+              "RelativeToolTip": "RPG\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T15:03:53.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Player.cpp",
+              "RelativeDocumentMoniker": "RPG\\Player.cpp",
+              "ToolTip": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Player.cpp",
+              "RelativeToolTip": "RPG\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T15:04:55.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mage.h",
+              "DocumentMoniker": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Mage.h",
+              "RelativeDocumentMoniker": "RPG\\Mage.h",
+              "ToolTip": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Mage.h",
+              "RelativeToolTip": "RPG\\Mage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T15:04:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Priest.h",
+              "DocumentMoniker": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Priest.h",
+              "RelativeDocumentMoniker": "RPG\\Priest.h",
+              "ToolTip": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Priest.h",
+              "RelativeToolTip": "RPG\\Priest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T15:04:30.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warrior.h",
+              "DocumentMoniker": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Warrior.h",
+              "RelativeDocumentMoniker": "RPG\\Warrior.h",
+              "ToolTip": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\Warrior.h",
+              "RelativeToolTip": "RPG\\Warrior.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T15:04:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\main.cpp",
+              "RelativeDocumentMoniker": "RPG\\main.cpp",
+              "ToolTip": "C:\\Users\\htyra\\source\\repos\\RPG\\RPG\\main.cpp",
+              "RelativeToolTip": "RPG\\main.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T15:03:46.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
